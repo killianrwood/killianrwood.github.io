@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm Killian Wood, a 5th year PhD student in Applied Mathematics at the University of Colorado Boulder, and a member of the [Dall'Anese group](https://www.colorado.edu/faculty/dallanese/group) in the department of Electrical, Computer, and Energy Engineering. 
 
-My research primarily focuses on stochastic optimization with decisision-dependent data. I also have experience with derivative-free optimization, for which I worked on projects in Scalable Guassian-process regression at Lawrence Livermore National Lab, as well as developing novel adaptive step-size schedules for stochastic subspace descent with [Stephen Becker](https://amath.colorado.edu/faculty/becker/). My research interests also include numerical linear algebra and tensor decomposition.
+My research primarily focuses on stochastic optimization with decision-dependent data. I also have experience with derivative-free optimization, for which I worked on projects in Scalable Guassian-process regression at Lawrence Livermore National Lab, as well as developing novel adaptive step-size schedules for stochastic subspace descent with [Stephen Becker](https://amath.colorado.edu/faculty/becker/). My research interests also include numerical linear algebra and tensor decomposition.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
